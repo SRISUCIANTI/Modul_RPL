@@ -27,6 +27,3 @@ jobs:
     - name: Run Unit Tests with Pytest
       run: |
         pytest -v
-```[cite: 1]
-
-Setelah file tersebut dibuat dan disimpan, beri tahu saya ya agar kita bisa langsung melanjutkan ke langkah pengujian pipeline di GitHub!
